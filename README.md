@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+2/3/2018
 
 ### Student Name:  
-(First and Last Name)
+Sean O'Neill
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+We had to set up a new cloud 9 and github, then edit the tax calculator depending on the relationship / family, remove tax calculation results, edit the read me file, publish a new github page, and push the new product to github.   
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://github.com/sro16c/lesson5_javascript2
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to remove the tax calculation code and other lines of code, I got stuck on that part and a few others and needed help to understand how to correctly do it. 
+2. I learned how to to initialize / set 
+3. I learned that I cannot have commas in the numbers I wanted to use, I needed help to learn this but once I got rid of the commas the calculations started adding up correctly. 
 
